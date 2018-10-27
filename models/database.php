@@ -1,3 +1,8 @@
+<!-- 
+By: Ahmed Karaman
+GitHub: https://github.com/ahmedkrmn
+Date: 10-27-2018
+-->
 <?php
 	class Database {
 		protected static $db = null;

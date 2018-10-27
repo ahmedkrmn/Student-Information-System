@@ -1,3 +1,7 @@
+-- By: Ahmed Karaman
+-- GitHub: https://github.com/ahmedkrmn
+-- Date: 10-27-2018
+
 -- phpMyAdmin SQL Dump
 -- version 4.8.2
 -- https://www.phpmyadmin.net/

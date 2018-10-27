@@ -1,3 +1,8 @@
+<!-- 
+By: Ahmed Karaman
+GitHub: https://github.com/ahmedkrmn
+Date: 10-27-2018
+-->
 <?php
 	header('Content-Type: application/json; charset=utf-8');
 	// include_once("../models/database.php");
