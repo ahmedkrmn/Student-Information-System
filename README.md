@@ -1,2 +1,1 @@
-# student-information-system
-Manage school information like students, course and grades.
+A live version of the web site can be found [here](entinformationsystem.epizy.com)
