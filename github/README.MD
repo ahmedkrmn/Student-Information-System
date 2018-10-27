@@ -1,0 +1,2 @@
+- This directory contains files used for the README file on github.
+- These files have nothing to do with the Student-Information-System website.
