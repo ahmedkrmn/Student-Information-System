@@ -25,5 +25,3 @@
 ### Deleting a student:
 ![delete student](https://github.com/ahmedkrmn/Student-Information-System/blob/master/github/delete.png)
 ---
-As noticed, deleteing a student or a course triggers a warning because it will also delete all of the student's grades.
----
