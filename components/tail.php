@@ -7,7 +7,7 @@ Date: 10-27-2018
 
     <footer class="footer">
       <div class="container">
-        <span class="text-muted">Copyright 2018, Software Engineering Course, ASUENG.</span>
+         <span class="text-muted"> Made by <a href="https://github.com/ahmedkrmn">Ahmed Karaman </a></span>
       </div>
     </footer>
 
